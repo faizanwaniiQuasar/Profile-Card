@@ -1,4 +1,5 @@
 ![profileCard](https://github.com/faizanwaniiQuasar/Profile-Card/assets/129840881/91203f9e-4904-4aa6-a8bb-98d351891cbf)
+
 Created a profile card using react
 
 
