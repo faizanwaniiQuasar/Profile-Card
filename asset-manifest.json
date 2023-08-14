@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Profile-Card/static/css/main.dd5d1d72.css",
+    "main.js": "/Profile-Card/static/js/main.a3119ec1.js",
+    "index.html": "/Profile-Card/index.html",
+    "main.dd5d1d72.css.map": "/Profile-Card/static/css/main.dd5d1d72.css.map",
+    "main.a3119ec1.js.map": "/Profile-Card/static/js/main.a3119ec1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd5d1d72.css",
+    "static/js/main.a3119ec1.js"
+  ]
+}
